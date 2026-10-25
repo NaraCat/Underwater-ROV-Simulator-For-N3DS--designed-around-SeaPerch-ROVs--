@@ -1,4 +1,4 @@
-# Underwater-ROV-Simulator-For-N3DS-(designed around SeaPerch ROVs)
+# Underwater ROV Simulator For N3DS (designed around SeaPerch ROVs)
 A homebrew app for the N3DS systems designed for practicing controlling ROVs similar to SeaPerch ROVs.
 
 THIS IS NOT AN OFFICIAL SeaPerch PRODUCT
